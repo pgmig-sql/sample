@@ -1,0 +1,3 @@
+[submodule "sql/poma"]
+	path = sql/poma
+	url = https://github.com/pgrpc/poma.git
