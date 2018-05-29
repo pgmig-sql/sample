@@ -1,10 +1,10 @@
 # poma-sample
-Sample of [poma](https://github.com/pgrpc/poma) based projects
+Sample of [poma](https://github.com/pomasql/poma) based projects
 
 # Usage
 
 ```
-git clone --recursive https://github.com/pgrpc/poma-sample.git
+git clone --recursive https://github.com/pomasql/poma-sample.git
 cd poma-sample
 make config
 make docker-db-create
