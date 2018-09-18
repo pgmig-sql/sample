@@ -6,9 +6,6 @@ SQL_ROOT  ?= sql
 BUILD_DIR ?= .build
 POMA_MAKE ?= $(SQL_ROOT)/poma/Makefile
 
-allpak    ?= poma sample
-
-%-all: POMA_PKG=$(allpak)
 %-default: POMA_PKG=sample
 
 define CONFIG_DEFAULT
