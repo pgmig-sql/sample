@@ -1,3 +1,3 @@
-[submodule "sql/poma"]
-	path = sql/poma
-	url = https://github.com/pomasql/poma.git
+[submodule "sql/pgmig"]
+	path = sql/pgmig
+	url = https://github.com/pgmig-sql/pgmig.git
